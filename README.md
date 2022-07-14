@@ -1,7 +1,6 @@
 # SQL Project
 In this project, I pull data from Excell and from that data I pull some information using SQL commands:
 - Joins
-<br/>
 - CTE
 <br/>
 - Temp Tables
